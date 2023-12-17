@@ -88,6 +88,7 @@ Welcome to the <strong>Nutrition Analysis App</strong> – your go-to tool for a
 - [GSAP](https://greensock.com/gsap/) - GreenSock Animation Platform - A high-performance JavaScript animation library.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets for styling web pages.
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The standard markup language for creating web pages and web applications.
+- Hooks and Custom Hooks
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
    
@@ -96,6 +97,7 @@ Welcome to the <strong>Nutrition Analysis App</strong> – your go-to tool for a
 - **Real-time Analysis:** Instantly analyze nutritional information based on your input.
 - **Intuitive UI:** User-friendly interface for a smooth and enjoyable experience.
 - **Responsive Design:** Ensures a consistent and visually appealing display across devices.
+- **Persistent Storage:** Utilizes local storage for seamless data persistence between sessions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

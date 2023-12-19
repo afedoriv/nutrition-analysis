@@ -10,7 +10,7 @@
 </a>
 
 <br />
-<h3 align="center">Nutrition Analysis</h3>
+<h3 align="center">Nutrition Analysis App</h3>
 
 <br />
 <p align="center">
@@ -48,7 +48,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f6bdd0&lines=Nutrition+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f6bdd0&lines=Nutrition+Analysis+App)](https://git.io/typing-svg)
 
 https://github.com/afedoriv/nutrition-analysis/assets/99702784/1cd43d7a-d5ba-46bc-967f-e3f9d6e80e55
 

@@ -21,6 +21,7 @@ function App() {
 		useLocalStorage('nutritionAnalysis');
 	const { setIngredients, loader, error, setError } =
 		useDataFetching(setNutritionData);
+
 	let animationRef = useRef(null);
 
 	const handleCloseMessage = (e) => {

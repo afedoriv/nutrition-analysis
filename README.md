@@ -1,70 +1,145 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/alina-fedoriv-89868720b/)
 
-## Available Scripts
+<br />
+<a href="https://alinafedoriv-nutrition-analysis.netlify.app/" target="_blank">
+    <img src="https://github.com/afedoriv/nutrition-analysis/assets/99702784/4ba7dcd5-410f-4a25-8d0d-646a8e6b7b8b" alt="Logo" width="140">
+</a>
 
-In the project directory, you can run:
+<br />
+<h3 align="center">Nutrition Analysis App</h3>
 
-### `npm start`
+<br />
+<p align="center">
+    The <strong>Nutrition Analysis App</strong> leverages React and the Edamam API to deliver precise nutritional details for a given list of ingredients. With an intuitive user interface, it's designed for seamless interaction, providing accurate data on calories, fats, proteins, and more.
+  
+  <br />
+  <br />
+  You can view a live demo of the project or watch the video demo below.
+<br />
+<br />
+<a href="https://alinafedoriv-nutrition-analysis.netlify.app/" target="_blank">View Live Demo</a>
+</p>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br />
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#built-with">Built with</a></li>
+      </ul>
+    </li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
 
-### `npm test`
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f6bdd0&lines=Nutrition+Analysis+App)](https://git.io/typing-svg)
 
-### `npm run build`
+https://github.com/afedoriv/nutrition-analysis/assets/99702784/1cd43d7a-d5ba-46bc-967f-e3f9d6e80e55
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br />
+<details>
+  <summary>Application Screenshots</summary>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br />
+<div align="center">
+  <img src="https://github.com/afedoriv/nutrition-analysis/assets/99702784/7d77393b-2e73-4901-889b-528ab5dfcbda" width="100%"/>
+</div>
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br />
+  
+### Introduction
 
-### `npm run eject`
+Welcome to the <strong>Nutrition Analysis App</strong> – your go-to tool for accurate nutritional analysis of ingredients. This React-based web application utilizes the Edamam API to provide comprehensive nutritional insights. Whether you're a fitness enthusiast, a health-conscious individual, or a developer exploring React applications, this project offers a robust foundation.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built with
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="src/assets/images/badge-edamam.svg" alt="Edamam API" width="150">  
+  <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GreenSock Animation Platform">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+</div> 
+  
+<br />
+<br />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-   [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+-   [Edamam API](https://www.edamam.com/) - API for comprehensive nutritional data analysis.
+-   [GSAP](https://greensock.com/gsap/) - GreenSock Animation Platform - A high-performance JavaScript animation library.
+-   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets for styling web pages.
+-   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The standard markup language for creating web pages and web applications.
+-   Hooks and Custom Hooks
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+   
+## Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   **Real-time Analysis:** Instantly analyze nutritional information based on your input.
+-   **Intuitive UI:** User-friendly interface for a smooth and enjoyable experience.
+-   **Responsive Design:** Ensures a consistent and visually appealing display across devices.
+-   **Persistent Storage:** Utilizes local storage for seamless data persistence between sessions.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
+## Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Get started with the <strong>Nutrition Analysis App</strong> by following these simple steps:
 
-### Analyzing the Bundle Size
+```bash
+git clone https://github.com/afedoriv/nutrition-analysis.git
+cd nutrition-analysis
+npm install
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br />
+This will start the development server, and you can access the application at http://localhost:3000 in your web browser.
 
-### Making a Progressive Web App
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Usage
 
-### Advanced Configuration
+<ol>
+  <li>Launch the app.</li>
+  <li>Enter a list of ingredients separated by commas.</li>
+  <li>Get instant nutritional analysis.</li>
+</ol>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+-   **Edamam API:** Empowering the app with robust nutritional data.
+-   **Netlify:** Seamless deployment and hosting.
+-   **Unsplash:** Providing the captivating background image.
+-   **Icon8:** Providing the icon used in this project.
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+
+Alina Fedoriv - fedoriv2023@gmail.com
+
+Project Link - [https://github.com/afedoriv/nutrition-analysis](https://github.com/afedoriv/nutrition-analysis)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

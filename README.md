@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/alina-fedoriv-89868720b/)
-
-<br />
 <a href="https://alinafedoriv-nutrition-analysis.netlify.app/" target="_blank">
     <img src="https://github.com/afedoriv/nutrition-analysis/assets/99702784/4ba7dcd5-410f-4a25-8d0d-646a8e6b7b8b" alt="Logo" width="140">
 </a>
@@ -40,7 +36,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#project-links">Project Links</a></li>
   </ol>
 </details>
 
@@ -136,10 +132,9 @@ This will start the development server, and you can access the application at ht
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
+## Project Links
 
-Alina Fedoriv - fedoriv2023@gmail.com
-
-Project Link - [https://github.com/afedoriv/nutrition-analysis](https://github.com/afedoriv/nutrition-analysis)
+-   **Live Demo:** [Nutrition Analysis App](https://alinafedoriv-nutrition-analysis.netlify.app/)
+-   **Project Repository:** [Nutrition Analysis GitHub](https://github.com/afedoriv/nutrition-analysis)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
